@@ -7,3 +7,14 @@ yarn-error.log
 tsdocs/
 tsconfig.tsbuildinfo
 database.sqlite
+bundle/
+*.d.ts
+*.d.ts.map
+*.js
+*.js.map
+*.mjs
+*.esnext
+*.tgz
+.vscode/
+.turbo
+**/build/
